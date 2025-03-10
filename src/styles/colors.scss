@@ -1,0 +1,21 @@
+//Приклад палітри кольорів
+
+// Палітра кольорів
+$background-color-light: #f8f9fa;  // Світлий фон
+$background-color-dark: #343a40;   // Темний фон
+
+$text-color-light: #212529;         // Світлий текст
+$text-color-dark: #f1f3f5;          // Темний текст
+
+// Складніші варіанти
+$primary-color: #007bff;            // Основний колір (синій)
+$secondary-color: #6c757d;          // Вторинний колір (сірий)
+$success-color: #28a745;            // Колір успіху (зелений)
+$warning-color: #ffc107;            // Колір попередження (жовтий)
+$error-color: #dc3545;              // Колір помилки (червоний)
+
+// Змінні для використання в темах
+$light-theme-background: $background-color-light;
+$dark-theme-background: $background-color-dark;
+$light-theme-text: $text-color-light;
+$dark-theme-text: $text-color-dark;
